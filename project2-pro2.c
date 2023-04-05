@@ -1,18 +1,3 @@
-/*
-Alexandros Papadhmos 
-Am:2022201600134
-dit16134@uop.gr
-Andreas Christou
-Am:20222016199
-dit16199@uop.gr
-
-2.1 elennxos stoixeiwn ektos apo url 
-2.2 print after-before
-2.3 pio prosfato pio palio 
-2.4 apothikeusi sto arxeio
-2.6 anafora
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
